@@ -27,6 +27,6 @@
     ]
   },
   "xcconfig": {
-    "OTHER_LDFLAGS": "$(inherited) -ObjC -all_load"
+    "OTHER_LDFLAGS": "$(inherited) -ObjC"
   }
 }
